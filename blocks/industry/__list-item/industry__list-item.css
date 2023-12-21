@@ -1,0 +1,14 @@
+.industry__list-item {
+    padding-top: 40px;
+    position: relative;
+}
+
+@media screen and (max-width: 425px) {
+    .industry__list-item {
+        padding-top: 60px;
+    }
+
+    .industry__list-item:nth-child(3) {
+        padding-top: 95px;
+    }
+}

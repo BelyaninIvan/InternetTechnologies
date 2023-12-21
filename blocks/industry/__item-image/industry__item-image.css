@@ -1,0 +1,11 @@
+.industry__item-image {
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+
+    position: absolute;
+    right: 25px;
+    top: -34px;
+}

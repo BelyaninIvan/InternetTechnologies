@@ -1,0 +1,7 @@
+.tourism__container {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom: 60px;
+    justify-content: space-between;
+    align-items: center;
+}

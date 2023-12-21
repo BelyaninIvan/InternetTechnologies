@@ -1,0 +1,8 @@
+.tourism__image {
+    display: block;
+    margin: 30px auto 0;
+    width: 461px;
+    height: 506px;
+    object-fit: cover;
+    border-radius: 45px;
+}
